@@ -1,0 +1,25 @@
+{
+  "name": "boilerplate-static-expres-server",
+  "version": "1.0.0",
+  "description": "Boilerplate node express server to serve static files",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitzerh/boilerplate-static-express-server.git"
+  },
+  "author": "mitzerh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mitzerh/boilerplate-static-express-server/issues"
+  },
+  "homepage": "https://github.com/mitzerh/boilerplate-static-express-server#readme",
+  "engines": {
+    "node": ">=6.10.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cli-helper": "^0.2.1",
+    "colors": "^1.1.2",
+    "express": "^4.16.2",
+    "serve-index": "^1.9.1"
+  }
+}
