@@ -20,6 +20,7 @@
     "cli-helper": "^0.2.1",
     "colors": "^1.1.2",
     "express": "^4.16.2",
-    "serve-index": "^1.9.1"
+    "serve-index": "^1.9.1",
+    "socket.io": "^1.7.3"
   }
 }
